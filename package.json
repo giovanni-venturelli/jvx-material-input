@@ -1,6 +1,6 @@
 {
   "name": "jvx-material-input",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A material design input web component based on Deepak Pandey material input",
   "main": "jvx-material-input.js",
   "module": "jvx-material-input.js",
@@ -15,5 +15,9 @@
     "chai": "^4.2.0",
     "mocha": "^6.1.4",
     "wct-mocha": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giovanni-venturelli/jvx-material-input"
   }
 }
