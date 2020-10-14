@@ -1,4 +1,4 @@
-import {LitElement, html, css} from "lit-elit-elementement";
+import {LitElement, html, css} from "lit-element";
 import {classMap} from "lit-html/directives/class-map";
 
 class Input extends LitElement {
