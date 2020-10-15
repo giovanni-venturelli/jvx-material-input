@@ -1,6 +1,6 @@
 # \<jvx-material-input\>
 
-A material design input web component based on Deepak Pandey material input
+A material design input web component based on Deepak Pandey's material input
 
 ## Install jvx-material-input
 
@@ -33,7 +33,7 @@ npm install jvx-material-input
 
 | Event Name | Target         | Detail | Description
 | ---------- | -------------- | ------ | -----------
-| `input`     |               | null   | Fired when the user modifies the value of the input.
+| `input`     |               | `String`| Fired when the user changes the value of the input. The detail contains the new value.
 
 ### CSS Custom Properties
 *None*
