@@ -1,6 +1,6 @@
 {
   "name": "jvx-material-input",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A material design input web component based on Deepak Pandey's material input",
   "main": "jvx-material-input.js",
   "module": "jvx-material-input.js",

@@ -39,4 +39,9 @@ npm install jvx-material-input
 *None*
 
 #### Global Custom Properties
-*None*
+
+| Name                                              | Default               | Description
+| ------------------------------------------------- | --------------------- |------------
+| `--jvx-material-input-primary`                    | `blue`                | Color of the filled input's bottom line when idle.
+| `--jvx-material-input-background`                 | `#fff`                | Color of the input's background fill.
+| `--jvx-material-input-accent`                     | `#b949d5`             | Color when active of the underline ripple, the outline, and the caret.
