@@ -113,7 +113,7 @@ class Input extends LitElement {
     
    .input-container.flat-round{
     border-radius: 4px;
-    background-color: var(--jvx-material-background-color, #D5D5D5);
+    background-color: var(--jvx-material-input-background, #D5D5D5);
     padding: 7px 0.75em;
    }
     

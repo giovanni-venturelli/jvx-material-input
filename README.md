@@ -25,6 +25,7 @@ npm install jvx-material-input
 | `value` | `String` | `''` | The default value of the input.
 | `disabled` | `Boolean` | `false` | True to disable the input.
 | `outline` | `Boolean` | `false` | True to outline the component.
+| `flatRound` | `Boolean` | `false` | True to give a nice flat rounded style to the input.
 
 ### Methods
 *None*
@@ -43,5 +44,5 @@ npm install jvx-material-input
 | Name                                              | Default               | Description
 | ------------------------------------------------- | --------------------- |------------
 | `--jvx-material-input-primary`                    | `blue`                | Color of the filled input's bottom line when idle.
-| `--jvx-material-input-background`                 | `#fff`                | Color of the input's background fill.
+| `--jvx-material-input-background`                 | `#fff` | '#D5D5D5' if `flatRound` is `true`                | Color of the input's background fill.
 | `--jvx-material-input-accent`                     | `#b949d5`             | Color when active of the underline ripple, the outline, and the caret.
